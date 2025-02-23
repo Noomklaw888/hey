@@ -1,1 +1,3 @@
-![image](https://github.com/user-attachments/assets/5712120f-6b87-42cf-a126-76540990e787)![image](https://github.com/user-attachments/assets/9519dad7-94ba-49df-a391-9ddd4f87fd5f)
+this is code to make a notice that a page won't get any more updates
+
+  <h1 style="color: red;">NOTICE: this page will not receive any updates</h1>
