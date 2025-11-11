@@ -1,0 +1,6 @@
+<audio id="click" src="Click.mp3"></audio>
+<audio id="ding" src="Ding.mp3"></audio>
+<audio id="beep" src="beep.mp3"></audio>
+<button onclick="playSound('click')">Click Sound</button>
+<button onclick="playSound('ding')">Ding Sound</button>
+<button onclick="playSound('beep')">Beep Sound</button>
